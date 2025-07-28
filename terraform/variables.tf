@@ -2,7 +2,7 @@
 variable "name" {
   description = "App Name"
   type        = string
-  default     = "hello-world-app"
+  default     = "app-template"
 }
 
 variable "region" {
